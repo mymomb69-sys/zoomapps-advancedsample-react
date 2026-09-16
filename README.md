@@ -9,7 +9,7 @@ App has reference implementation for:
 - Zoom Apps SDK methods and events, including role-based permissions
 - Guest mode
 
-Tech stack: react js, node.js, express, docker (optional)
+Tech stack: react js, node.js, express, docker (optionals)
 
 ## Usage
 
